@@ -1,0 +1,10 @@
+const types = {
+  CHARACTER : 'CHARACTER',
+  BRACKET: 'BRACKET',
+  RANGE: 'RANGE',
+  PARENTHESIS : 'PARENTHESIS',
+  START: 'START',
+  BACK_REFERENCE: 'BACK_REFERENCE'
+}
+
+module.exports = types;
