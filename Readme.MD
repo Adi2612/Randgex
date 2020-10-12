@@ -21,4 +21,3 @@ console.log(output);
 
 
 **Author** : Aaditya Arora 
-**email id** : er.adi2612@gmail.com
