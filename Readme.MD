@@ -1,7 +1,7 @@
 # Random Regex Generator
 
 ## Hosted on
-http://regex.craftedmaps.in/
+http://randgex.craftedmaps.in/
 
 ## File Structure
 
